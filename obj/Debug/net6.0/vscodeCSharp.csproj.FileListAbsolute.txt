@@ -1,0 +1,15 @@
+C:\Treinamentos\vscodeCSharp\bin\Debug\net6.0\vscodeCSharp.exe
+C:\Treinamentos\vscodeCSharp\bin\Debug\net6.0\vscodeCSharp.deps.json
+C:\Treinamentos\vscodeCSharp\bin\Debug\net6.0\vscodeCSharp.runtimeconfig.json
+C:\Treinamentos\vscodeCSharp\bin\Debug\net6.0\vscodeCSharp.dll
+C:\Treinamentos\vscodeCSharp\bin\Debug\net6.0\vscodeCSharp.pdb
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.csproj.AssemblyReference.cache
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.AssemblyInfoInputs.cache
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.AssemblyInfo.cs
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.csproj.CoreCompileInputs.cache
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.dll
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\refint\vscodeCSharp.dll
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.pdb
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\vscodeCSharp.genruntimeconfig.cache
+C:\Treinamentos\vscodeCSharp\obj\Debug\net6.0\ref\vscodeCSharp.dll
