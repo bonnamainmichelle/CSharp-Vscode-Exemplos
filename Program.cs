@@ -6,5 +6,6 @@
 
         Console.WriteLine("Qual é o seu nome? ");
         nome = Console.ReadLine();
+        Console.WriteLine(nome);
     }
 }
